@@ -29,15 +29,15 @@ https://www.youtube.com/watch?v=qsVpvSTfRnY
 
 ## Libraries
 
-socket https://docs.python.org/3.6/library/socket.html#module-socket
+socket - https://docs.python.org/3.6/library/socket.html#module-socket
 
-gzip https://docs.python.org/3.6/library/gzip.html#module-gzip
+gzip - https://docs.python.org/3.6/library/gzip.html#module-gzip
 
-base64 https://docs.python.org/3.6/library/base64.html
+base64 - https://docs.python.org/3.6/library/base64.html
 
-sys https://docs.python.org/3.6/library/sys.html
+sys - https://docs.python.org/3.6/library/sys.html
 
-picamera https://picamera.readthedocs.io/en/release-1.13/index.html
+picamera - https://picamera.readthedocs.io/en/release-1.13/index.html
 
-Pillow https://pillow.readthedocs.io/en/latest/index.html
+Pillow - https://pillow.readthedocs.io/en/latest/index.html
 
