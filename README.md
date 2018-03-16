@@ -27,3 +27,17 @@ This video streaming device works by:
 
 https://www.youtube.com/watch?v=qsVpvSTfRnY
 
+## Libraries
+
+socket https://docs.python.org/3.6/library/socket.html#module-socket
+
+gzip https://docs.python.org/3.6/library/gzip.html#module-gzip
+
+base64 https://docs.python.org/3.6/library/base64.html
+
+sys https://docs.python.org/3.6/library/sys.html
+
+picamera https://picamera.readthedocs.io/en/release-1.13/index.html
+
+Pillow https://pillow.readthedocs.io/en/latest/index.html
+
