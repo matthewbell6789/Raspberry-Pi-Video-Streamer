@@ -27,7 +27,7 @@ This video streaming device works by:
 
 https://www.youtube.com/watch?v=qsVpvSTfRnY
 
-# Writing server.py and client.py
+## Writing server.py and client.py
 
 As I learned how to utilize all the libraries I used for these programs, I began writing the server.py and client.py files. 
 
