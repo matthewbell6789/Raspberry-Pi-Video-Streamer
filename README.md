@@ -44,6 +44,8 @@ picamera - https://picamera.readthedocs.io/en/release-1.13/index.html
 
 Pillow - https://pillow.readthedocs.io/en/latest/index.html
 
+pygame - https://www.pygame.org/docs/
+
 ## Refrences
 
 [3] https://raspberrypi.stackexchange.com/questions/13425/server-and-client-between-pc-and-raspberry-pi
